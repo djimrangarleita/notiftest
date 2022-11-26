@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "863733460833",
+    "project_id": "notiftest-c32f1",
+    "storage_bucket": "notiftest-c32f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863733460833:android:452038c2e1c6bee89c1f20",
+        "android_client_info": {
+          "package_name": "com.djimra.notiftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863733460833-lkc8fisen0bk97rvirdp75tbeakfm453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEjWPR7LLthWaDki0naT5pwBOXB7Dy3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863733460833-lkc8fisen0bk97rvirdp75tbeakfm453.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863733460833-tnnhfiofap0hombfr7p3nma01jhvc2qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.djimra.notiftest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
